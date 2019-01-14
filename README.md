@@ -3,6 +3,7 @@
 # 1、云从
 # Learning Discriminative Features with Multiple Granularities for Person Re-Identification
 [paper](https://arxiv.org/pdf/1804.01438.pdf)
+[code](https://github.com/Gavin666Github/reid-mgn)
 
    本次云从提出通过融合行人的全局信息以及具有辨识力的多粒度局部信息的思路，为解决ReID问题提供了一个非常不错的思路。云从科技本次提出的方案有几大优势:
 （1）结构精巧：该方案实现了端到端的直接学习，并没有增加额外的训练流程;
