@@ -7,4 +7,4 @@
 （2）多粒度：融合了行人的整体信息与有区分度的多粒度细节信息;
 （3）关注细节：模型真正懂得什么是人，模型会把注意力放在膝盖，衣服商标等能够显著区分行人的一些核心信息上。
 
-https://github.com/ZhangYK124/person-re-id2018/blob/master/img1.jpg
+！（https://github.com/ZhangYK124/person-re-id2018/blob/master/img1.jpg）
