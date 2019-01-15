@@ -56,4 +56,4 @@
 
 ## 效果
 
-![结构图](https://github.com/ZhangYK124/person-re-id2018/blob/master/img7.jpg)
+![结构图](https://github.com/ZhangYK124/person-re-id2018/blob/master/img7.png)
