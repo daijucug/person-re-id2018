@@ -52,3 +52,8 @@
 ![结构图](https://github.com/ZhangYK124/person-re-id2018/blob/master/img6.jpg)
 
 　　大华股份经过多年的技术积累，对算法进行了持续优化，提出了创新技术方案：基于人体结构的分块模型，提取显著的局部特征；融合多层语义信息，学习不同层级特征，使得特征更具表达能力；利用空间注意力模型解决局部特征对齐问题。
+
+
+## 效果
+
+![结构图](https://github.com/ZhangYK124/person-re-id2018/blob/master/img7.jpg)
