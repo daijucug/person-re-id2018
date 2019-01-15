@@ -35,6 +35,7 @@
 
 
 # 4、文安智能
+基于人体关键点的多粒度网络结构
 
 ![结构图](https://github.com/ZhangYK124/person-re-id2018/blob/master/img5.jpg)
 
